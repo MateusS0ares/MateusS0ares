@@ -35,23 +35,19 @@
 <details>
 <p align="center">
   <a href="https://github.com/MateusS0ares">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusS0ares&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusS0ares&theme=radical" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/MateusS0ares">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusS0ares&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/MateusS0ares">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateusS0ares&theme=transparent" />
-  </a>
-  <a href="https://github.com/MateusS0ares">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusS0ares&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MateusS0ares&layout=compact&langs_count=10&theme=radical"/>
   </a>
 </p>
 </details>
 
 <p align="center">
   <a href="https://github.com/MateusS0ares">
-    <img src="https://komarev.com/ghpvc/?username=MateusS0ares&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=MateusS0ares&color=blueviolet&style=flat)" />
   </a>
 </p>
 <!--
