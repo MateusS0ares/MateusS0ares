@@ -1,6 +1,6 @@
-<h1 align="center">Olá!👋</h1>
+<h1 align="left">Olá Mundo! 👋</h1><img align="right" src="https://imgur.com/OzuQ0JF.gif"/>
 
-<p align="center">
+<p align="left">
     <b>Bem vindo ao meu perfil!</b><br><br>
     <i>
         Me chamo Mateus<br>
@@ -14,7 +14,7 @@
     </a>
     <a href="mailto:mateusviniciussoaresdasilva@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
+    </a> 
 </p>
 
 ### Languages
@@ -32,6 +32,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/MateusS0ares)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MateusS0ares)
 [![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000.svg?style=for-the-badge&logo=Robot-Framework&logoColor=white)](https://github.com/MateusS0ares)
+[![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/MateusS0ares)
 
 <details>
 <p align="center">
